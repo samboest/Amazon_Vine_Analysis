@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this assignment was to practice Pyspark, Posgress and AWS S3 connections for a simple ETL process and analysis of vine reviews.  The Toys GL was selected as our source data for review, but other categories could be used.  
 
-## Resuls
+## Results
  - How many Vine reviews and non-Vine reviews were there?
     - Vine: 1266 & No Vine 62028
  - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
